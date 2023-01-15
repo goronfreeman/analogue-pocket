@@ -8,6 +8,104 @@ title: Analogue Pocket
 
 The [Analogue Pocket](https://www.analogue.co/pocket) is a multi-video-game-system portable handheld designed and built by [Analogue](https://www.analogue.co).
 
+## Test
+
+<div class="row row-cols-1 row-cols-md-3 g-4">
+  <div class="col">
+    <div class="card bg-light h-100">
+      <img src="{{ "/assets/images/platforms/a500.png" | relative_url }}" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Amiga 500 <span class="badge bg-secondary">Computer</span></h5>
+        <h6 class="card-subtitle mb-2 text-muted">Mazamars312</h6>
+        <p class="card-text">Amiga 500 Core</p>
+      </div>
+      <div class="card-footer text-muted">
+        <div class="d-flex justify-content-between align-items-center">
+          <div class="btn-toolbar" role="toolbar">
+            <div class="btn-group me-2">
+              <a href="#" class="btn btn-sm btn-dark"><i class="bi-github" role="img" aria-label="GitHub"></i></a>
+            </div>
+            <div class="btn-group">
+              <div class="dropdown">
+                <a class="btn btn-sm btn-danger dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false"><i class="bi-heart-fill" role="img" aria-label="Sponsor"></i>
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                  <li><a class="dropdown-item" href="#">Action</a></li>
+                  <li><a class="dropdown-item" href="#">Another action</a></li>
+                  <li><a class="dropdown-item" href="#">Something else here</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <small class="text-muted">0.0.6 • Dec 10, 2022</small>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-light h-100">
+      <img src="{{ "/assets/images/platforms/arduboy.png" | relative_url }}" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Arduboy <span class="badge bg-secondary">Handheld</span></h5>
+        <h6 class="card-subtitle mb-2 text-muted">agg23</h6>
+        <p class="card-text">A small, portable Arduino console.</p>
+      </div>
+      <div class="card-footer">
+        <div class="d-flex justify-content-between align-items-center">
+          <div class="btn-toolbar" role="toolbar">
+            <div class="btn-group me-2">
+              <a href="#" class="btn btn-sm btn-dark"><i class="bi-github" role="img" aria-label="GitHub"></i></a>
+            </div>
+            <div class="btn-group">
+              <div class="dropdown">
+                <a class="btn btn-sm btn-danger dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false"><i class="bi-heart-fill" role="img" aria-label="Sponsor"></i>
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                  <li><a class="dropdown-item" href="#">Action</a></li>
+                  <li><a class="dropdown-item" href="#">Another action</a></li>
+                  <li><a class="dropdown-item" href="#">Something else here</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <small class="text-muted">0.9.0 • Sep 3, 2022</small>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-light h-100">
+      <img src="{{ "/assets/images/platforms/asteroids.png" | relative_url }}" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Asteroids <span class="badge bg-secondary">Arcade</span></h5>
+        <h6 class="card-subtitle mb-2 text-muted">ericlewis</h6>
+        <p class="card-text">Atari's Asteroids released in 1979.</p>
+      </div>
+      <div class="card-footer text-muted">
+        <div class="d-flex justify-content-between align-items-center">
+          <div class="btn-toolbar" role="toolbar">
+            <div class="btn-group me-2">
+              <a href="#" class="btn btn-sm btn-dark"><i class="bi-github" role="img" aria-label="GitHub"></i></a>
+            </div>
+            <div class="btn-group">
+              <div class="dropdown">
+                <a class="btn btn-sm btn-danger dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false"><i class="bi-heart-fill" role="img" aria-label="Sponsor"></i>
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                  <li><a class="dropdown-item" href="#">Action</a></li>
+                  <li><a class="dropdown-item" href="#">Another action</a></li>
+                  <li><a class="dropdown-item" href="#">Something else here</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <small class="text-muted">1.0.1 • Oct 11, 2022</small>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
 ## Cores
 
 <div class="mb-5">
